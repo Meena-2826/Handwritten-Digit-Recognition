@@ -3,6 +3,8 @@ This project implements a neural network for recognizing handwritten digits from
 
 The goal of the project is to achieve high accuracy in classifying handwritten digits, typically around 96% on the test set. The model's performance is evaluated using accuracy score metrics, and its success demonstrates the power of deep learning techniques such as backpropagation and stochastic gradient descent for image classification tasks. By leveraging fundamental neural network principles like ReLU activation, softmax output, and one-hot encoding, this project provides an effective introduction to building and training neural networks for computer vision tasks.
 
+with accuracy 96%
+
 
 
 
